@@ -35,3 +35,15 @@ ____
 
 **[Click here to open the link](https://en.blinkfilm.net/cf?wix-vod-video-id=ed03f989f54445b389250cd1aab89567&wix-vod-comp-id=comp-jwakmty5)**
 (This branding video was actually used in the store and the social media account)
+
+____
+# Video Title: Brand Promotion Film - ｜MOLLIFIX｜ Brand Ambassador Jia Yongjie (Fall/Winter New Collection)
+**Type**: Brand Promotion Film
+
+**Description**: Mollifix launched its new Fall/Winter collection, inviting brand ambassador Jia Yongjie to share her thoughts on outdoor activities in autumn. The interview-style video is interwoven with scenes of her wearing the products in real-life settings, allowing consumers to feel how Mollifix naturally fits into their everyday lives.
+
+**Responsibilities**: Post-production
+
+**Software**: Adobe Premiere
+
+**[Click here to open the link](https://youtu.be/NzmV9CNA1ck?si=D-quPFq6zbvGRPHj)**
