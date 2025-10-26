@@ -31,7 +31,7 @@ ____
 
 **Responsibilities**: Script planning, Camera assistant, Post-production
 
-**Software**: Adobe Premiere, After Effects
+**Software**: Adobe Premiere Pro, After Effects
 
 **[Click here to open the link](https://en.blinkfilm.net/cf?wix-vod-video-id=ed03f989f54445b389250cd1aab89567&wix-vod-comp-id=comp-jwakmty5)**
 (This branding video was actually used in the store and the social media account)
@@ -44,6 +44,20 @@ ____
 
 **Responsibilities**: Post-production
 
-**Software**: Adobe Premiere
+**Software**: Adobe Premiere Pro
 
 **[Click here to open the link](https://youtu.be/NzmV9CNA1ck?si=D-quPFq6zbvGRPHj)**
+
+____
+# Video Title: Brand Promotion Film Series - ezTravel
+**Type**: Brand Promotion Film Series
+
+**Description**: This street-interview-style video connects closely with university students by having them share their personal travel stories. These authentic conversations lead naturally to the campaign’s core concept—highlighting ezTravel’s practical benefits and strengthening the target audience’s understanding of the brand.
+
+**Responsibilities**: Program planning, Script planning, Filming, Post-production
+
+**Software**: Adobe Illustrator, Adobe Premiere Pro, Adobe Premiere, After Effects
+
+(This video is part of an integrated marketing communication (IMC) campaign for the ezTravel brand.)
+
+**[Click here to open the link](https://youtube.com/playlist?list=PLGtIoeT53LZfY8Wl6olkbI8QxyFacz2PC&si=3JV4MjU8T1qOi4kQ)**
