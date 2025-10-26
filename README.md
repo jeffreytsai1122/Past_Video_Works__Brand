@@ -22,3 +22,16 @@
 
 **[Click here to open the link](https://drive.google.com/file/d/1XC4Bsa4jtCpK3v16qoE5AUeoccXVYeE2/view?usp=sharing)**
 (This is a personal practice project featuring a fictional brand.)
+
+____
+# Video Title: Brand Image film - Relay Fruit Cocktail Bar
+**Type**: Brand Image Film
+
+**Description**: Relay Juicetail is a Taipei-based bar known for its signature fruit cocktails. This branding video presents the transformation of fresh fruits into cocktails through fast-paced visuals, interspersed with shots of vibrant fruit collisions to evoke a refreshing and lively feeling.
+
+**Responsibilities**: Script planning, Camera assistant, Post-production
+
+**Software**: Adobe Premiere, After Effects
+
+**[Click here to open the link](https://en.blinkfilm.net/cf?wix-vod-video-id=ed03f989f54445b389250cd1aab89567&wix-vod-comp-id=comp-jwakmty5)**
+(This branding video was actually used in the store and the social media account)
